@@ -1,0 +1,24 @@
+body {
+    font-family: 'Trebuchet MS';
+    background-image: url(https://t3.ftcdn.net/jpg/01/72/05/42/360_F_172054239_19v7VTSlus8Tr5eTAa3lLl1H5aU6khfb.jpg);
+    background-size: cover;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+#play {
+    font-style: italic;
+}
+
+button {
+    font-weight: bolder;
+    padding-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background: goldenrod;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(5, 95, 5);
+    padding-left: 20px;
+    padding-right: 20px;
+}
