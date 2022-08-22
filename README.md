@@ -11,6 +11,7 @@ Rules:
 
 
 Steps to Play:
+          
           1] Press the PLAY button ==> It will choose two cards at random at show total cards picked by you, point of each          card and your Total Score.
           2] If it's 21 You WILL GET BLACKJACK! After which you should press the RESET button.
           3] If your score EXCEEEDS 21, you will be DISSQUALIFIED, after which you should press the RESET button.
