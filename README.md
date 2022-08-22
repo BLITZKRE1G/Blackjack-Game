@@ -2,6 +2,7 @@
 Online web based Blackjack game which we can play online, and it generates random card values every time.
 
 Rules:  
+        
         1] Your score should NOT EXCEED 21, it CAN BE LESS.
         2] If you Score 21, YOOU WILL GET BLACKJACK!!!
         3] If you Score more than 21, you will be dissqualified.
